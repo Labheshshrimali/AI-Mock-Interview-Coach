@@ -5,3 +5,5 @@ node_modules/
 data/recordings/
 data/eval_samples/
 .env
+
+*.db

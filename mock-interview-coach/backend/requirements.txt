@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+websockets>=10.4
+
+# audio / speech
+faster-whisper==1.0.3
+librosa==0.10.2
+numpy>=1.26
+soundfile==0.12.1
+
+# storage
+# sqlalchemy removed: not used in app
+
+# eval
+tqdm==4.66.5

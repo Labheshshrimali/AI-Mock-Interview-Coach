@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+data/recordings/
+data/eval_samples/
+.env
